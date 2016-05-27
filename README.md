@@ -20,7 +20,7 @@ Disabled or configured rules should have a `rule_name.md` file in the `{configur
 
 # Disabled rules
 ----------
- - Nothing to see here :)
+ - [force_cast](disabled_rules/force_cast.md)
 
 # Configured rules
 ----------
