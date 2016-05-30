@@ -27,4 +27,5 @@ By default, we should optin for all opt_in_rules (you can see them by running `s
 
 # Configured rules
 ----------
- - [variable_name](configured_rules/variable_name)
+ - [variable_name](configured_rules/variable_name.md)
+ - [function_body_length](configured_rules/function_body_length.md)
