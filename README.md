@@ -21,6 +21,7 @@ Disabled or configured rules should have a `rule_name.md` file in the `{configur
 # Disabled rules
 ----------
  - [force_cast](disabled_rules/force_cast.md)
+ - [line_length](disabled_rules/line_length.md)
 
 # Configured rules
 ----------
