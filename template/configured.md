@@ -1,8 +1,11 @@
 # rule_name
 ----------
 
-# configuration_name : configuration_value (default_value)
+# configuration_name
 ----------
+- default: _xxxx_
+- configured: _yyyy_  
+
 _Please explain here the rationale behind the configuration of this value. Feel free
 to add some description on where you should pay attention to the rule nevertheless.
 Remember that configuring a rule will edit it globally for every project.

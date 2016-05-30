@@ -16,7 +16,9 @@ that should be used for new projets at Wopata.
 
 Each time SwiftLint is updated, we should analyze the rules that have been added, and configure them in the `.swiftlint.yml` file.  
 
-Disabled or configured rules should have a `rule_name.md` file in the `{configured,disabled}_rules` folder. You should copy the `template/{configured,disabled}.md` file and start from here to explain the rationale.
+Disabled or configured rules should have a `rule_name.md` file in the `{configured,disabled}_rules` folder. You should copy the `template/{configured,disabled}.md` file and start from here to explain the rationale.  
+
+By default, we should optin for all opt_in_rules (you can see them by running `swiftlint rules`), and disable if needed.
 
 # Disabled rules
 ----------
@@ -25,4 +27,4 @@ Disabled or configured rules should have a `rule_name.md` file in the `{configur
 
 # Configured rules
 ----------
- - Nothing to see here :)
+ - [variable_name](configured_rules/variable_name)
