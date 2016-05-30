@@ -24,6 +24,7 @@ By default, we should optin for all opt_in_rules (you can see them by running `s
 ----------
  - [force_cast](disabled_rules/force_cast.md)
  - [line_length](disabled_rules/line_length.md)
+ - [cyclomatic_complexity](disabled_rules/cyclomatic_complexity.md)
 
 # Configured rules
 ----------
