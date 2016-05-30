@@ -9,7 +9,7 @@ I feel this may lead to spaghetti code, as the easy response to this rule would 
 
 ### force_try
 
-I'm not sure about this one. try/catch block are super bothersome as we rarely have to handle the exception. But the force try can be replaced with a conditional try, that doesn't trigger a warning.
+I'm not sure about this one. `try`/`catch` blocks are super bothersome as we rarely have to handle the exception. But the force `try` can be replaced with a conditional `try`, that doesn't trigger a warning.
 ```swift
 func a() throws {}; ↓ _ = try? a()
 ```
